@@ -1,1 +1,20 @@
+p {
+  font-family: verdana;
+  color: white;
+  text-align: center;
+}
 
+#discover {
+  font-size: 50px;
+  font-wheight: normal;
+}
+
+#download {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#travelGuide {
+  font-size: 42px;
+  font-wheight: 300;
+}
