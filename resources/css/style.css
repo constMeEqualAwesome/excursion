@@ -1,25 +1,36 @@
 body {
   margin: 0;
   background: black;
+  text-align: center;
+  font-family: verdana;
 }
 
 p {
-  font-family: verdana;
   color: white;
-  text-align: center;
 }
 
 #discover {
   font-size: 50px;
-  font-wheight: normal;
+  font-weight: normal;
 }
 
 .download {
   color: aquamarine;
   font-size: 16px;
+  text-decoration: underline;
 }
 
 .smallerPs {
   font-size: 42px;
-  font-wheight: 300;
+  font-weight: 300;
+}
+
+.greySub {
+  color: grey;
+  font-size: 21px;
+}
+
+#copywrite {
+  text-align: right;
+  margin-right: 15%;
 }
